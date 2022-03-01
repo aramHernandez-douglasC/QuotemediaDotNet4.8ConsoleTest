@@ -1,0 +1,17 @@
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\QuoteMedia.Streamer.Client.dll
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Security.Permissions.dll
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Security.Permissions.xml
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\AramH\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
